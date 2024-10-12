@@ -1,0 +1,10 @@
+{% extends "_base.html" %}
+{% block title %} {{patient.first_name}} {{patient.last_name}} {% endblock title %}
+{% block content %}
+  <div class="container">
+    <h1>{{ patient.first_name }} {{patient.last_name }}'s Profile</h1>
+    <p><strong>Email:</strong> {{ patient.email }}</p>
+    <p><strong>Date of Birth:</strong> {{ patient.date_of_birth }}</p>
+    <p><strong>Phone Number:</strong> {{ patient.phone_number }}</p>
+  </div>
+{% endblock content %}

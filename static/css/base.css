@@ -1,0 +1,20 @@
+.monarch {
+  text-align: center; /* Center text horizontally */
+  padding: 50px 20px; /* Add padding for spacing */
+  margin-top: 70px; /* Space from the navbar, adjust as needed */
+}
+
+.monarch h1 {
+  font-size: 2.5em; /* Adjust heading size */
+  margin-bottom: 20px; /* Space below the heading */
+}
+
+.monarch h2 {
+  font-size: 2em; /* Adjust subheading size */
+  margin-top: 30px; /* Space above subheadings */
+  margin-bottom: 10px; /* Space below subheadings */
+}
+
+.monarch p {
+  font-size: 1.2em; /* Adjust paragraph size */
+  margin-bottom: 20px; /* Space below paragraphs */
