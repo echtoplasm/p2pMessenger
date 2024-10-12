@@ -1,7 +1,7 @@
 # p2pMessenger
-A djago project for my portfolio
+A django project for my portfolio
 
-Was working on making a HIPPA compliant messenging service with django, I got in kind of deep with making 
+I've working on making this HIPPA compliant messenging service with django, I got in kind of deep with making 
 patient/provider models as well as profile pages almost in the vain of social networking.
 
 I've decided to take a step back and take a more modular approach by making an encrypted messenging application first
